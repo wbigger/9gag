@@ -1,0 +1,25 @@
+#title {
+    float:left;
+    color:white;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 8px 10px 8px 20px;
+    
+}
+
+header{
+    margin-top:0px;
+    background-color: black;
+    margin: 0;
+    overflow: hidden;
+}
+
+a {
+    color: gray;
+    margin: 12px 10px 12px 10px;
+    float:left;
+    font-size: 20px;
+}
+body {
+    margin: 0;
+}
